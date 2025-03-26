@@ -1,5 +1,6 @@
+--upgrade pip
+scikit-learn==1.2.2
 streamlit
 pandas
 numpy
-scikit-learn
 pickle5
