@@ -38,3 +38,6 @@ Dependent Variable (Target): Diabetes progression measurement
 🔹 Integration with real-time health data
 🔹 More advanced ML models (Deep Learning, XGBoost)
 🔹 Chatbot for personalized diabetes guidance
+
+git clone:
+git clone https://github.com/ujwalreddybattu04/ML-Mini-Projects.git
